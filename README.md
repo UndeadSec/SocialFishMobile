@@ -4,6 +4,9 @@ Are you looking for SocialFish? [UndeadSec/SocialFish][sf-web]
 #### MAINTAINERS
 - **Tiago R. Lampert**, Github: [@tiagorlampert][git-tiago]
 
+#### DESCRIPTION
+This project is a SocialFish remote controller. So it does not work independently.
+
 #### DISCLAIMER
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
