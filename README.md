@@ -1,6 +1,9 @@
 ## SOCIALFISH MOBILE
 Are you looking for SocialFish? [UndeadSec/SocialFish][sf-web]
 
+#### MAINTAINERS
+- **Tiago R. Lampert**, Github: [@tiagorlampert][git-tiago]
+
 #### DISCLAIMER
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
@@ -18,3 +21,4 @@ Taken from [LICENSE](LICENSE).
 
 [//]: # (links references)
 [sf-web]: <https://github.com/UndeadSec/SocialFish>
+[git-tiago]: <https://github.com/tiagorlampert>
