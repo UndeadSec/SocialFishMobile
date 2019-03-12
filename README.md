@@ -1,13 +1,37 @@
-## SOCIALFISH MOBILE
-Are you looking for SocialFish? [UndeadSec/SocialFish][sf-web]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/logo.png" width="200"/>
+</a></p>
 
-#### MAINTAINERS
-- **Tiago R. Lampert**, Github: [@tiagorlampert][git-tiago]
+<h1 align="center">SocialFish Mobile</h1>
+<p align="center">
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-1.x-blue.svg">
+  </a>
+  <a href="https://github.com/UndeadSec/SocialFishMobile/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-BSD%203-important.svg">
+  </a>
+  <a href="https://github.com/UndeadSec/SocialFishMobile/tree/master/lib">
+    <img src="https://img.shields.io/badge/Release-1.0-red.svg">
+  </a>
+    <a href="https://opensource.org">
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
+  </a>
+</p>
 
-#### DESCRIPTION
-This project is a SocialFish remote controller. So it does not work independently.
+<p align="center" style="color: gray;">
+This app is an open-source project to remote control SocialFish, it does not work independently.
+</p>
 
-#### DISCLAIMER
+<br/>
+
+![Screenshot](https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/screen.png)
+
+## Get It
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.undeadsec.socialfish"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="100"></a>
+</p>
+
+## DISCLAIMER
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
@@ -21,6 +45,44 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 Taken from [LICENSE](LICENSE).
+
+## SocialFish
+Are you looking for SocialFish? [UndeadSec/SocialFish][sf-web]
+
+## Maintainers
+- **Tiago R. Lampert**, Github: [@tiagorlampert][git-tiago]
+
+## License
+
+>The [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
+>
+>Copyright (c) 2019, UndeadSec
+>
+>All rights reserved.
+>
+>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+>
+>* Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+>
+>* Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.
+>
+>* Neither the name of the copyright holder nor the names of its
+  contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+>
+>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 [//]: # (links references)
 [sf-web]: <https://github.com/UndeadSec/SocialFish>
