@@ -33,7 +33,7 @@ This app is an open-source project to remote control SocialFish, it does not wor
 
 ## Build your own APK
 ```bash
-# Prepare your Flutter environment.
+# Prepare your Flutter environment
 # Go to https://flutter.dev/docs/get-started/install
 # After configured go ahead
 
@@ -78,6 +78,13 @@ Taken from [LICENSE](LICENSE).
 
 ## SocialFish
 Are you looking for SocialFish? [UndeadSec/SocialFish][sf-web]
+
+## FAQ
+> #### Which technology is used to develop the SocialFish Mobile app?
+> SocialFish Mobile it's written in [`Dart`](https://www.dartlang.org/) and are build using a Google's framework called [`Flutter`](https://flutter.dev).
+
+> #### Why does SocialFish Mobile request camera permission?
+> The camera permission are described in `AndroidManifest.xml` file, it's required to scan the token qrcode.
 
 ## Maintainers
 - **Tiago R. Lampert**, Github: [@tiagorlampert][git-tiago]
