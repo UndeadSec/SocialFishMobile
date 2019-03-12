@@ -10,7 +10,7 @@
   <a href="https://github.com/UndeadSec/SocialFishMobile/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-important.svg">
   </a>
-  <a href="https://github.com/UndeadSec/SocialFishMobile/tree/master/lib">
+  <a href="https://github.com/UndeadSec/SocialFishMobile/releases">
     <img src="https://img.shields.io/badge/Release-1.0-red.svg">
   </a>
     <a href="https://opensource.org">
