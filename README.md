@@ -31,7 +31,7 @@ This app is an open-source project to remote control SocialFish, it does not wor
   <a href="https://play.google.com/store/apps/details?id=com.undeadsec.socialfish"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="100"></a>
 </p>
 
-## Build your own APK
+## How to build
 ```bash
 # Prepare your Flutter environment
 # Go to https://flutter.dev/docs/get-started/install
