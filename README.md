@@ -87,7 +87,7 @@ Are you looking for SocialFish? [UndeadSec/SocialFish][sf-web]
 > The camera permission are described in `AndroidManifest.xml` file, it's required to scan the token qrcode.
 
 ## Maintainers
-- **Tiago R. Lampert**, Github: [@tiagorlampert][git-tiago]
+- **Tiago R. Lampert**, Twitter: [tiagorlampert][tw-tiago], Github: [@tiagorlampert][git-tiago]
 
 ## License
 
@@ -124,3 +124,4 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 [//]: # (links references)
 [sf-web]: <https://github.com/UndeadSec/SocialFish>
 [git-tiago]: <https://github.com/tiagorlampert>
+[tw-tiago]: <https://twitter.com/tiagorlampert>
