@@ -86,9 +86,11 @@ Are you looking for SocialFish? [UndeadSec/SocialFish][sf-web]
 > #### Why does SocialFish Mobile request camera permission?
 > The camera permission are described in `AndroidManifest.xml` file, it's required to scan the token qrcode.
 
-
 > #### How can i get an compiled apk?
 > Get from a [released](https://github.com/UndeadSec/SocialFishMobile/releases) version.
+
+> #### I didn't found a iOS version, why?
+> At the present moment, we don't have a iOS version, maybe on future.
 
 ## Maintainers
 - **Tiago R. Lampert**, Twitter: [tiagorlampert][tw-tiago], Github: [@tiagorlampert][git-tiago]
