@@ -31,6 +31,14 @@ This app is an open-source project to remote control SocialFish, it does not wor
   <a href="https://play.google.com/store/apps/details?id=com.undeadsec.socialfish"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="100"></a>
 </p>
 
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/screenshot-1.png" width="250">
+  <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/screenshot-2.png" width="250">
+  <img src="https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/screenshot-3.png" width="250">
+</p>
+
 ## DISCLAIMER
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
